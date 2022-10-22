@@ -1,0 +1,4 @@
+一番上にあるCMakeLists.txtをビルドすれば、libフォルダにあるCMakeLists.txtも呼ばれるようになっています。
+
+buildフォルダを作りそこから、ルートのCMakeLists.txtを使う感じがいいと思います。
+
